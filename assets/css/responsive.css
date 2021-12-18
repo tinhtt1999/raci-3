@@ -1,0 +1,276 @@
+@media (min-width:1101px) and (max-width:1200px)
+{
+    .title
+    {
+        font-size: 60px;
+    }
+    .about-content .section-about
+    {
+        margin-top: -100px;
+    }
+    .about-content .section-about .text-about p
+    {
+        font-size: 24px;
+    }
+    .about-logo img
+    {
+        width: 95%;
+    }
+    .content-tokenomics p
+    {
+        font-size: 34px;
+    }
+}
+@media (min-width:951px) and (max-width:1100px)
+{
+    .title
+    {
+        font-size: 60px;
+    }
+    .about-content .section-about
+    {
+        margin-top: -80px;
+    }
+    .about-content .section-about .text-about p
+    {
+        font-size: 21px;
+    }
+    .about-logo img
+    {
+        width: 95%;
+    }
+    .text-roadmap h5
+    {
+        font-size: 28px;
+    }
+    .text-roadmap h3
+    {
+        font-size: 42px;
+    }
+    .text-roadmap li
+    {
+        font-size: 22px;
+    }
+    .content-tokenomics p
+    {
+        font-size: 30px;
+    }
+}
+@media (min-width:740px) and (max-width:950px)
+{
+    .title
+    {
+        font-size: 60px;
+    }
+    .content-metaverse
+    {
+        font-size: 22px;
+    }
+    .about-content .section-about
+    {
+        margin-top: -80px;
+    }
+    .about-content .section-about .text-about p
+    {
+        font-size: 16px;
+    }
+    .about-logo img
+    {
+        width: 100%;
+    }
+    .text-roadmap h5
+    {
+        font-size: 22px;
+    }
+    .text-roadmap h3
+    {
+        font-size: 32px;
+    }
+    .text-roadmap li
+    {
+        font-size: 18px;
+    }
+    .content-tokenomics p
+    {
+        font-size: 23px;
+    }
+}
+@media (min-width:540px) and (max-width:739px)
+{
+    .title
+    {
+        font-size: 50px;
+    }
+    .content-metaverse
+    {
+        font-size: 16px;
+    }
+    .about-content .section-about
+    {
+        margin-top: -60px;
+    }
+    .about-content .section-about .text-about p
+    {
+        font-size: 12px;
+    }
+    .about-logo img
+    {
+        width: 100%;
+    }
+    .text-roadmap h5
+    {
+        font-size: 16px;
+    }
+    .text-roadmap h3
+    {
+        font-size: 22px;
+    }
+    .text-roadmap li
+    {
+        font-size: 14px;
+    }
+    .content-tokenomics p
+    {
+        font-size: 17px;
+    }
+}
+@media (max-width: 539px)
+{
+    .title
+    {
+        font-size: 50px;
+        text-align: center;
+    }
+    .header-logo .content-header
+    {
+        bottom: 0%;
+    }
+    .content-header .text-header h1
+    {
+        font-size: 48px;
+    }
+    .content-metaverse
+    {
+        font-size: 16px;
+        width: 100%;
+    }
+    .content-tokenomics p
+    {
+        font-size: 10px;
+    }
+    #about
+    {
+        flex-direction: column;
+    }
+    #about .about-content
+    {
+        width: 100%;
+    }
+    .about-content .section-about
+    {
+        margin-top: -60px;
+    }
+    .about-content .section-about .text-about p
+    {
+        font-size: 13px;
+    }
+    #about .about-logo
+    {
+        width: 100%;
+        margin-top: -15%;
+    }
+    .about-logo img
+    {
+        width: 80%;
+    }
+    .roadmap-section
+    {
+        flex-direction: column;
+    }
+    .roadmap-section .text-roadmap
+    {
+        width: 100%;
+    }
+    .roadmap-section img
+    {
+        width: 100%;
+    }
+    .text-roadmap h5
+    {
+        font-size: 22px;
+    }
+    .text-roadmap h3
+    {
+        font-size: 30px;
+    }
+    .text-roadmap li
+    {
+        font-size: 18px;
+    }
+    footer
+    {
+        flex-direction: column;
+    }
+    .contact
+    {
+        justify-content: flex-start;
+        margin-top: 20px;
+    }
+    .contact h2
+    {
+        font-size: 24px;
+    }
+    .contact
+    {
+        flex-direction: row;
+    }
+    .img-contact
+    {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-left: 30px;
+    }
+
+}
+@media (max-width: 365px)
+{
+    .content-header .text-header h1
+    {
+        font-size: 42px;
+    }
+    .text-roadmap h5
+    {
+        font-size: 18px;
+    }
+    .text-roadmap h3
+    {
+        font-size: 24px;
+    }
+    .text-roadmap li
+    {
+        font-size: 16px;
+    }
+    .about-content .section-about .text-about p 
+    {
+        font-size: 13px;
+    }
+    .img-contact
+    {
+        margin-left: 20px;
+    }
+}
+@media (max-width: 950px)
+{
+    .nav-header, .menusocialwrap
+    {
+        display: none;
+    }
+    .menu-header
+    {
+        display: flex;
+    }
+    
+
+}
